@@ -1,3 +1,4 @@
+#https://www.hackerrank.com/challenges/find-a-string/problem
 def count_substring(string, sub_string):
     count_substring = 0
     for i in range(len(string)):

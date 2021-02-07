@@ -1,10 +1,9 @@
+#https://www.hackerrank.com/challenges/python-sort-sort/problem
 import math
 import os
 import random
 import re
 import sys
-
-
 
 if __name__ == '__main__':
    nm = input().split()

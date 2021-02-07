@@ -1,3 +1,4 @@
+#https://www.hackerrank.com/challenges/np-arrays/problem
 import numpy as np
 
 def arrays(arr):

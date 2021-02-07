@@ -1,3 +1,4 @@
+#https://www.hackerrank.com/challenges/word-order/problem
 n = int(input())
 all_words = list()
 for i in range(n):

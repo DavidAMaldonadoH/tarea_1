@@ -1,3 +1,4 @@
+#https://www.hackerrank.com/challenges/capitalize/problem
 def solve(s):
    words = list(s.split(' '))
    capitalized = list()
